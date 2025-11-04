@@ -154,8 +154,8 @@ Feel free to fork this project and submit pull requests for improvements.
 ## 📞 Contact
 
 **Deepak H R**
-- Email: deepak.hr@email.com
-- LinkedIn: [Your LinkedIn Profile]
+- Email: deepakgowda6363@gmail.com
+- LinkedIn: [Deepak H R](https://www.linkedin.com/in/iamdeepakhr) 
 - GitHub: [Your GitHub Profile]
 
 ---
